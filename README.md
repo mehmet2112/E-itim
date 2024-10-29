@@ -1,2 +1,2 @@
-# E-itim
-# E-itim
+# E-ğitim
+# E-ğitim
