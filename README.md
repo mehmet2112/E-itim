@@ -1,2 +1,1 @@
-# E-ğitim
-# E-ğitim
+# proje
